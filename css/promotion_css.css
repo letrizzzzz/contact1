@@ -1,0 +1,111 @@
+/*prommotion*/
+.danh-muc-san-pham {
+    border: 1px solid black;
+    background: black;
+    height: 180px;
+    width: 270px;
+    padding: 2px 5px;
+    margin-top: 150px;
+    list-style: none;
+    color: white;
+}
+.danh-muc h4{
+    color: white;
+    font-weight: bold;
+
+}
+.danh-muc{
+    border-bottom: 1px solid white;
+}
+.locsanpham{
+    border-top: 2px solid orange;
+}
+.locsanpham1{
+    border-bottom: 1px  black dashed ;
+}
+.sanpham1 {
+    margin-top: 160px;
+}
+.giamgia{
+    background: pink;
+    height: auto;
+    opacity: 0.5;
+}
+.register-coupon-text{
+    color: white;
+    font: 21px Muli;
+    background: orange;
+    padding: 50px 50px 10px;
+    margin-top: 50px;
+    text-transform: uppercase;
+
+}
+.register-coupon{
+    width: 450px;
+    height: 240px;
+}
+.register-coupon-button{
+    color: white;
+    background: orange;
+    font: 14px Muli;
+    padding: 20px 40px 30px 30px;
+    text-transform: uppercase;
+    width: 170px;
+    height: 20px;
+}
+.span-discount{
+    font: 95px Roboto, sans-serif;
+    color: white;
+}
+/*contact*/
+.contact-map{
+    margin-top: 220px;
+}
+.contact-details{
+    margin-top: 190px;
+}
+.light-font{
+    color: black;
+    font: 20px Muli;
+}
+.clr-txt.fsz-12.pt-15{
+    color: orange;
+    font: 12px Muli;
+
+    padding: 15px 0px 0px;
+}
+.diachi{
+    list-style: none;
+}
+.sub-title-1.text-center{
+    color: #9F9F9F;
+    font: 10px Muli;
+    margin: 10px;
+}
+.form-control{
+    background: white;
+    padding: 10px;
+}
+.form-group.col-sm-12{
+    color: #525252;
+    font: 14px Muli;
+    margin: 0px 0px 20px;
+    padding: 0px 15px;
+}
+.form-group.col-sm-12.text-center.pt-15{
+    color: #525252;
+    font: 14px Muli;
+    margin: 0px 0px 20px;
+    padding: 15px 15px 0px;
+}
+.theme-btn-2{
+    color: white;
+    font: 13px Muli;
+    background: orange;
+    padding: 14px 30px;
+}
+.contact-form.pt-50{
+    color: #525252;
+    font: 14px Muli;
+    padding: 50px 0px 0px;
+}
